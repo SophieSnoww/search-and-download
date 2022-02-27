@@ -1,0 +1,21 @@
+{
+    "name": "search-and-download",
+    "version": "1.0.0",
+    "description": "Search the web and download video and audio",
+    "main": "bin/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sophie Snow",
+    "license": "MIT",
+    "bin": {
+        "sad": "./bin/index.js"
+    },
+    "dependencies": {
+        "soundcloud-scraper": "^5.0.2",
+        "yargs": "^17.3.1",
+        "youtube-dl-exec": "^2.0.6",
+        "youtube-search-without-api-key": "^1.0.7"
+    }
+}
