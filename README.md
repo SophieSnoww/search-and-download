@@ -16,7 +16,7 @@ All you need to do is run `npm i search-and-download -g`, and you can run `sad` 
 
 ### Usage
 
-```
+```text
 Usage: sad -s <search> -p <platform> [options]
 
 Options:
