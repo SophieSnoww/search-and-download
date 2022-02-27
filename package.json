@@ -1,5 +1,5 @@
 {
-    "name": "search-and-download",
+    "name": "search-and-dl",
     "version": "1.0.0",
     "description": "Search the web and download video and audio",
     "main": "bin/index.js",

@@ -6,7 +6,7 @@ A command-line app to easily search for and download videos and music.
 
 ### Installation
 
-All you need to do is run `npm i search-and-download -g`, and you can run `sad` in the command line from anywhere.
+All you need to do is run `npm i search-and-dl -g`, and you can run `sad` in the command line from anywhere.
 
 ### Example Usage
 
