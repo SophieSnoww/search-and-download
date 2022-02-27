@@ -10,9 +10,9 @@ All you need to do is run `npm i search-and-download -g`, and you can run `sad` 
 
 ### Example Usage
 
-`sad -s "bruh sound effect" -p youtube` will download the top result for "bruh sound effect" from youtube, as a video.
-`sad -s "bruh sound effect" -p youtube -a` does the same as above, but only saves an audio file.
-`sad -s "bruh sound effect" -p youtube -t` will save the thumbnail of the video as an image file, as well as downloading the video.
+- `sad -s "bruh sound effect" -p youtube` will download the top result for "bruh sound effect" from youtube, as a video.
+- `sad -s "bruh sound effect" -p youtube -a` does the same as above, but only saves an audio file.
+- `sad -s "bruh sound effect" -p youtube -t` will save the thumbnail of the video as an image file, as well as downloading the video.
 
 ### Usage
 
