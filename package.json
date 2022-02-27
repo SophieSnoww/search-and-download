@@ -4,8 +4,15 @@
     "description": "Search the web and download video and audio",
     "main": "bin/index.js",
     "type": "module",
+    "keywords": [
+        "cli",
+        "youtube-dl",
+        "soundcloud",
+        "search-and-download",
+        "download"
+    ],
     "author": "Sophie Snow",
-    "license": "MIT",
+    "license": "ISC",
     "bin": {
         "sad": "./bin/index.js"
     },
