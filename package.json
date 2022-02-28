@@ -1,6 +1,6 @@
 {
     "name": "search-and-dl",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Search the web and download video and audio",
     "main": "bin/index.js",
     "type": "module",
@@ -12,7 +12,7 @@
         "download"
     ],
     "author": "Sophie Snow",
-    "license": "ISC",
+    "license": "GPLV3",
     "bin": {
         "sad": "./bin/index.js"
     },
