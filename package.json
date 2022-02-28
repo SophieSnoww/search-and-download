@@ -17,6 +17,7 @@
         "sad": "./bin/index.js"
     },
     "dependencies": {
+        "bin-version-check-cli": "^3.0.0",
         "soundcloud-scraper": "^5.0.2",
         "yargs": "^17.3.1",
         "youtube-dl-exec": "^2.0.6",
