@@ -18,7 +18,11 @@ A command-line app to easily search for and download videos and music.
 Because of a weird quirk in the main dependency, `youtube-dl-exec`, the `python` command must be available on your machine (not `py`, not `python3`). If it isn't, `bin-version-check-cli` will throw an error, preventing you from installing anything in the first place. As far as I can tell, there's no easy solution to this, but I'd like to get it fixed soon. For fixes, see [Fixing the Python Thing](#fixing-the-python-thing).
 
 Then, all you need to do is run
-```npm i search-and-dl -g```
+
+```bash
+npm i search-and-dl -g
+```
+
 and you can run `sad` in the command line from anywhere.
 
 ### Example Usage
@@ -47,7 +51,10 @@ Options:
 ### Linux
 
 Installing `python-is-python3` should make the `python` command available.
-```sudo apt install python-is-python3```
+
+```bash
+sudo apt install python-is-python3
+```
 
 ### Windows
 
