@@ -1,6 +1,6 @@
 {
     "name": "search-and-dl",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Search the web and download video and audio",
     "main": "bin/index.js",
     "type": "module",
