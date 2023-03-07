@@ -20,7 +20,7 @@
         "bin-version-check-cli": "^3.0.0",
         "soundcloud-scraper": "^5.0.2",
         "yargs": "^17.3.1",
-        "youtube-dl-exec": "^2.0.6",
+        "youtube-dl-exec": "^2.4.0",
         "youtube-search-without-api-key": "^1.0.7"
     },
     "repository": {
